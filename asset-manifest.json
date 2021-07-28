@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/ticker/%20/static/css/main.45afe344.chunk.css",
-    "main.js": "/ticker/%20/static/js/main.196231b2.chunk.js",
-    "main.js.map": "/ticker/%20/static/js/main.196231b2.chunk.js.map",
-    "runtime-main.js": "/ticker/%20/static/js/runtime-main.4111b8a3.js",
-    "runtime-main.js.map": "/ticker/%20/static/js/runtime-main.4111b8a3.js.map",
-    "static/js/2.3176820c.chunk.js": "/ticker/%20/static/js/2.3176820c.chunk.js",
-    "static/js/2.3176820c.chunk.js.map": "/ticker/%20/static/js/2.3176820c.chunk.js.map",
-    "static/js/3.9b5532f9.chunk.js": "/ticker/%20/static/js/3.9b5532f9.chunk.js",
-    "static/js/3.9b5532f9.chunk.js.map": "/ticker/%20/static/js/3.9b5532f9.chunk.js.map",
-    "index.html": "/ticker/%20/index.html",
-    "static/css/main.45afe344.chunk.css.map": "/ticker/%20/static/css/main.45afe344.chunk.css.map",
-    "static/js/2.3176820c.chunk.js.LICENSE.txt": "/ticker/%20/static/js/2.3176820c.chunk.js.LICENSE.txt",
-    "static/media/TickerApp.scss": "/ticker/%20/static/media/bg.be1b3e55.png",
-    "static/media/HeroPage.scss": "/ticker/%20/static/media/hero.6f9bc837.jpg",
-    "static/media/TickerPreview.scss": "/ticker/%20/static/media/post_bg.c2fdae13.png"
+    "main.css": "/ticker/static/css/main.c6498683.chunk.css",
+    "main.js": "/ticker/static/js/main.196231b2.chunk.js",
+    "main.js.map": "/ticker/static/js/main.196231b2.chunk.js.map",
+    "runtime-main.js": "/ticker/static/js/runtime-main.1fa6fd59.js",
+    "runtime-main.js.map": "/ticker/static/js/runtime-main.1fa6fd59.js.map",
+    "static/js/2.3176820c.chunk.js": "/ticker/static/js/2.3176820c.chunk.js",
+    "static/js/2.3176820c.chunk.js.map": "/ticker/static/js/2.3176820c.chunk.js.map",
+    "static/js/3.9b5532f9.chunk.js": "/ticker/static/js/3.9b5532f9.chunk.js",
+    "static/js/3.9b5532f9.chunk.js.map": "/ticker/static/js/3.9b5532f9.chunk.js.map",
+    "index.html": "/ticker/index.html",
+    "static/css/main.c6498683.chunk.css.map": "/ticker/static/css/main.c6498683.chunk.css.map",
+    "static/js/2.3176820c.chunk.js.LICENSE.txt": "/ticker/static/js/2.3176820c.chunk.js.LICENSE.txt",
+    "static/media/TickerApp.scss": "/ticker/static/media/bg.be1b3e55.png",
+    "static/media/HeroPage.scss": "/ticker/static/media/hero.6f9bc837.jpg",
+    "static/media/TickerPreview.scss": "/ticker/static/media/post_bg.c2fdae13.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4111b8a3.js",
+    "static/js/runtime-main.1fa6fd59.js",
     "static/js/2.3176820c.chunk.js",
-    "static/css/main.45afe344.chunk.css",
+    "static/css/main.c6498683.chunk.css",
     "static/js/main.196231b2.chunk.js"
   ]
 }
